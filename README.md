@@ -2,7 +2,7 @@
  ![Image of me](meinside.jpg)
 
 
- ## A map of all of the places I have flown to!
+ ## A map of the places I have flown to!
 
 
 ![Image of me](me.jpg) ![Image of me](theone.jpg) 
