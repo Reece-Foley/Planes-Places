@@ -1,16 +1,22 @@
-# My Adventures
+<img src="MyMark.jpg" width="10%" height="10%">
+
+# <p align="center"> My Adventures
+ 
  ![Image of me](meinside.jpg)
 
-## A map of the places I have flown to.
+## <p align="center"> A map of the places I have flown to.
 
 ![Image of me](me.jpg) ![Image of me](theone.jpg) 
 
 
 
-## This map shows the 11 airports I have flown to in a small airplane. 
+## <p align="center"> This map shows the 11 airports I have flown to in a small airplane. 
 
 
-![Image of map](FinalMap.jpg) ![Image of ledg](ledg.jpg)
+![Image of map](FinalMap.jpg) 
+
+![Image of ledg](ledg.jpg)
+
 [Download PDF](FinalMap.jpg)
 
 I have been in multiple Cessnas, a Beach Craft Muskeeter, a Diamond, and a RV-7A.
@@ -23,7 +29,9 @@ I have soloed at both Georgetown and London.
 
 I plane to continue updating this map as I fly to new plances and watch it expand across the world.
 
-# To make this map I used
+
+
+# <p align="center"> To make this map I used
 * ## Excel
 
 -I created a sheet with Longitude and Latitude of all of the airports.
