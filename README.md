@@ -1,6 +1,6 @@
 <img src="MyMark.jpg" width="10%" height="10%">
 
-# <p align="center"> My Adventures
+# <h1 align="center">My Adventures</h1>
  
  ![Image of me](meinside.jpg)
 
