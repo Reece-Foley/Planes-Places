@@ -1,8 +1,16 @@
 # Planes & Places
- A map of all of the places I have flown to! ![Image of me](me.jpg)
+ ![Image of me](meinside.jpg)
 
 
-# This map shows the 11 airports I have flown to in a small airplane. 
+ ## A map of all of the places I have flown to! 
+
+
+ ![Image of me](me.jpg) 
+
+
+
+## This map shows the 11 airports I have flown to in a small airplane. 
+
 
 ![Image of map](FinalMap.jpg) ![Image of ledg](ledg.jpg)
 [Download PDF](FinalMap.jpg)
