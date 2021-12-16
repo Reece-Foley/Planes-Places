@@ -4,8 +4,7 @@
  
  ![Image of me](meinside.jpg)
 
-<p align="center">A map of the places I have flown to.
-
+<h1 align="center">A map of the places I have flown to.</h1>
 
 <p align="center" width="100%">
     <img width="35.3%" src="me.jpg">
@@ -13,9 +12,8 @@
     
 </p>
 
-
-<p align="center"> This map shows the 11 airports I have flown to in a small airplane. 
-
+ 
+<h1 align="center">This map shows the 11 airports I have flown to in a small airplane.</h1>
 
 ![Image of map](FinalMap.jpg) 
 
@@ -35,7 +33,8 @@ I plane to continue updating this map as I fly to new plances and watch it expan
 
 
 
-# <p align="center"> To make this map I used
+<h1 align="center">To make this map I used</h1>
+
 * ## Excel
 
 -I created a sheet with Longitude and Latitude of all of the airports.
