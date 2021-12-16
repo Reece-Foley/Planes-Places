@@ -39,7 +39,7 @@ I plane to continue updating this map as I fly to new plances and watch it expan
 
  -I created a sheet with Longitude and Latitude of all of the airports.
 * ## Raster Data
--1:10m Manual Shaded Relief from Natural Earth 
+ -1:10m Manual Shaded Relief from Natural Earth 
 * ## State outlines layer
 * ## Shaded relief TIF 
 
