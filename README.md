@@ -4,7 +4,7 @@
  
  ![Image of me](meinside.jpg)
 
-# <p align="center"> A map of the places I have flown to.
+<p align="center">A map of the places I have flown to.
 
 
 <p align="center" width="100%">
@@ -14,7 +14,7 @@
 </p>
 
 
-# <p align="center"> This map shows the 11 airports I have flown to in a small airplane. 
+<p align="center"> This map shows the 11 airports I have flown to in a small airplane. 
 
 
 ![Image of map](FinalMap.jpg) 
