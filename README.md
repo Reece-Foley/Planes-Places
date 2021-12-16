@@ -4,13 +4,17 @@
  
  ![Image of me](meinside.jpg)
 
-## <p align="center"> A map of the places I have flown to.
-
-![Image of me](me.jpg) ![Image of me](theone.jpg) 
+# <p align="center"> A map of the places I have flown to.
 
 
+<p align="center" width="100%">
+    <img width="35.3%" src="me.jpg">
+    <img width="50%" src="theone.jpg">
+    
+</p>
 
-## <p align="center"> This map shows the 11 airports I have flown to in a small airplane. 
+
+# <p align="center"> This map shows the 11 airports I have flown to in a small airplane. 
 
 
 ![Image of map](FinalMap.jpg) 
